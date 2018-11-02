@@ -13,3 +13,4 @@ OLS_logo_and_family
 !ols-apps/ols-config-importer/target/ols-config-importer.jar
 !ols-apps/ols-loading-app/target/ols-indexer.jar
 !ols-solr/src/main/solr-5-config
+!ols-web/src/main/resources/ols-config.yaml
